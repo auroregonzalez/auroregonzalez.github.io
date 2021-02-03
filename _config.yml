@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Claire Duvallet"
+title                    : "Aurore Gonzalez"
 title_separator          : "-"
-name                     : &name "Claire Duvallet"
-description              : &description "Claire Duvallet"
-url                      : https://cduvallet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Aurore Gonzalez"
+description              : &description "Aurore Gonzalez"
+url                      : https://auroregonzalez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cduvallet/cduvallet.github.io"
+repository               : "auroregonzalez/auroregonzalez.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -54,37 +54,37 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : cduvallet
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#twitter:
+#  username               : cduvallet
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
+#og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#social:
+#  type                   : # Person or Organization (defaults to Person)
+#  name                   : # If the user or organization name differs from the site's name
+#  links: # An array of links to social media profiles
 
 
 # Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+#analytics:
+#  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Claire Duvallet"
-  avatar           : "claire_duvallet.jpg"
-  bio              : "data science @ Biobot Analytics | public health data, microbiome, personalized medicine | gender and racial equity in STEM | former Luce Scholar in Cambodia | she/hers"
-  #location         : "Boston, MA"
+  name             : "Aurore Gonzalez"
+  avatar           : "aurore_gonzalez.jpg"
+  bio              : "Postdoctoral researcher @ University of Milano-Bicocca | ERC Synergy: Realizing Leibniz’s Dream: Child Languages as a Mirror of the Mind"
+  location         : "Milan, Italy"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=sXD-7J4AAAAJ&hl=en&oi=ao"
-  email            : "cduvallet@gmail.com"
+ # googlescholar    : "https://scholar.google.com/citations?user=sXD-7J4AAAAJ&hl=en&oi=ao"
+  email            : "auroregonzalez@g.harvard.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cduvallet"
+  github           : "auroregonzalez"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "cduvallet"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  #linkedin         : "cduvallet"
+  #orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "cduvallet"
+  #twitter          : "cduvallet"
   vine             :
   weibo            :
   xing             :
