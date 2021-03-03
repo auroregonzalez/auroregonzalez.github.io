@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 \
-\
 Some recent and upcoming presentations (a full list can be found in my [CV](http://auroregonzalez.github.io/files/CV_march_2021.pdf)):
 
 
