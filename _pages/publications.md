@@ -29,7 +29,7 @@ A Guide to Writing a Senior Thesis in Linguistics, [with Yuyin He & Julia Sturm]
 
 ## Before 2019
 
-Countability distinctions without linguistic cues, iA. van Alem, A. Ionova and C. Pots (eds.), ConSOLE XXVI: Proceedings of the 26th Conference of the Student
+Countability distinctions without linguistic cues, in A. van Alem, A. Ionova and C. Pots (eds.), ConSOLE XXVI: Proceedings of the 26th Conference of the Student
 Organization of Linguistics in Europe, 99-115. 2018.
 
 Negative coordination in French,
