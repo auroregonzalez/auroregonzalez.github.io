@@ -19,7 +19,7 @@ French constituent unconditionals relativize a free choice item (with Karoliina 
 
 Answering negative questions in American Sign Language (1st author, with Kate Henninger and [Kathryn Davidson](https://scholar.harvard.edu/kathryndavidson/home)), in M. Baird and J. Pesetsky (eds.), NELS 49: Proceedings of the Forty-Ninth Annual Meeting of the North East Linguistic Society. 2, 31-44.
 
-A Guide to Writing a Senior Thesis in Linguistics (with Yuyin He & Julia Sturm), Harvard Writing Center.
+[A Guide to Writing a Senior Thesis in Linguistics](http://auroregonzalez.github.io/files/a_guide_to_writing_a_senior_thesis_in_linguistics_2019.pdf) (with Yuyin He & Julia Sturm), Harvard Writing Center.
 
 
 ## Before 2019
