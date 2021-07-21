@@ -9,7 +9,7 @@ Some recent and upcoming presentations (a full list can be found in my [CV](http
 
 ## 2021
 
-How children ask questions across languages [with Kazuko Yatsushiro (1st author), Chiara Dal Farra, Johannes Hein, Silvia Silleresi, Alicia Avellana, Aijun Huang, Johnson Ilori, G. Gayathri, Maria Teresa Guasti and Uli Sauerland]. Talk at *BUCLD 46*, Boston University, November4-7.
+How children ask questions across languages [with Kazuko Yatsushiro (1st author), Chiara Dal Farra, Johannes Hein, Silvia Silleresi, Alicia Avellana, Aijun Huang, Johnson Ilori, G. Gayathri, Maria Teresa Guasti and Uli Sauerland]. Talk at *BUCLD 46*, Boston University, November 4-7.
 
 Presuppositions in polar questions. Poster at *SALT 31*, Brown University, May 7-9.
 
