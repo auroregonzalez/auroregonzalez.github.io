@@ -16,7 +16,7 @@ Presuppositions in polar questions. Poster at *SALT 31*, Brown University, May 7
 Two types of presuppositions in polar questions. Talk at *GLOW 44*, GLOW Board, April 15-17.
 
 Expletive negation and negative polarity: the view from Québec French [with [Justin Royer](http://justinroyer.lingspace.org/)].\
-Talk at *DGfS2021 - WorkshopEmpirical approaches to canonical and non-canonical uses of negation*, University of Freiburg , February 24-26.
+Talk at *DGfS2021 - Workshop Empirical approaches to canonical and non-canonical uses of negation*, University of Freiburg , February 24-26.
 
 ## 2020
 
