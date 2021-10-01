@@ -7,19 +7,22 @@ author_profile: true
 
 Residue of Universality, Under review.
 
-French constituent unconditionals relativize a free choice item (with Karoliina Lohiniva), Romance Linguistics 2019. Accepted.
+An expletive negation unlike any other in Québec French: Exploring a ‘complex NPI’ analysis [with [Justin Royer](http://justinroyer.lingspace.org/?page_id=16)], Accepted with revisions in *Isogloss*
+
+French constituent unconditionals relativize a free choice item [with Karoliina Lohiniva], Accepted in *Theory, data, and
+practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
 
 ## 2020
 
-[Exclusivity in Unconditionals](https://www.ledonline.it/snippets/allegati/snippets39001.pdf) (with Karoliina Lohiniva), Snippets 39: 1-2. 
+[Exclusivity in Unconditionals](https://www.ledonline.it/snippets/allegati/snippets39001.pdf) [with Karoliina Lohiniva], Snippets 39: 1-2. 
 
-[A Compositional Semantics for Free Choice Constituent Unconditionals](https://semanticsarchive.net/Archive/jI3N2NlY/gonzalez_lohiniva_sub.pdf) (with Karoliina Lohiniva), in M. Franke, N. Kompa, M. Liu, J. Mueller, and J. Schwab (eds.), Proceedings of Sinn und Bedeutung 24. 1, 223-241.
+[A Compositional Semantics for Free Choice Constituent Unconditionals](https://semanticsarchive.net/Archive/jI3N2NlY/gonzalez_lohiniva_sub.pdf) [with Karoliina Lohiniva], in M. Franke, N. Kompa, M. Liu, J. Mueller, and J. Schwab (eds.), Proceedings of Sinn und Bedeutung 24. 1, 223-241.
 
 ## 2019
 
-Answering negative questions in American Sign Language (1st author, with Kate Henninger and [Kathryn Davidson](https://scholar.harvard.edu/kathryndavidson/home)), in M. Baird and J. Pesetsky (eds.), NELS 49: Proceedings of the Forty-Ninth Annual Meeting of the North East Linguistic Society. 2, 31-44.
+Answering negative questions in American Sign Language [1st author, with Kate Henninger and [Kathryn Davidson](https://scholar.harvard.edu/kathryndavidson/home)], in M. Baird and J. Pesetsky (eds.), NELS 49: Proceedings of the Forty-Ninth Annual Meeting of the North East Linguistic Society. 2, 31-44.
 
-[A Guide to Writing a Senior Thesis in Linguistics](http://auroregonzalez.github.io/files/a_guide_to_writing_a_senior_thesis_in_linguistics_2019.pdf) (with Yuyin He & [Julia Sturm](https://scholar.harvard.edu/sturm)), Harvard Writing Center.
+[A Guide to Writing a Senior Thesis in Linguistics](http://auroregonzalez.github.io/files/a_guide_to_writing_a_senior_thesis_in_linguistics_2019.pdf) [with Yuyin He & [Julia Sturm](https://scholar.harvard.edu/sturm)], Harvard Writing Center.
 
 
 ## Before 2019
