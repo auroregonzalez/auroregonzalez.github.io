@@ -3,13 +3,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Under review/Accepted
+## Under review/To appear
 
-Residue of Universality, Under review.
+**Aurore Gonzalez**. Under review. Residue of Universality.
 
-An expletive negation unlike any other in Québec French: Exploring a ‘complex NPI’ analysis [with [Justin Royer](http://justinroyer.lingspace.org/?page_id=16)], Accepted with revisions in *Isogloss*
+Kazuko Yatsushiro, {Chiara Dal Farra, **Aurore Gonzalez**, Johannes Hein, Silvia Silleresi}, {Alicia Avellana, Aijun Huang, Johnson F. Ilori, Gayathri G. Krishnan, Lilla Pintér}, {Maria Teresa Guasti, Uli Sauerland}. To appear. Children's *Wh*-Questions across Languages: Some Preliminary Results. *Proceedings of the 46th annual Boston University Conference on Language Development*
 
-French constituent unconditionals relativize a free choice item [with Karoliina Lohiniva], Accepted in *Theory, data, and
+{**Aurore Gonzalez**, [Justin Royer](http://justinroyer.lingspace.org/?page_id=16)}. To appear. An expletive negation unlike any other in Québec French: Exploring a ‘complex NPI’ analysis. *Isogloss*.
+
+{**Aurore Gonzalez**, Karoliina Lohiniva}. To appear. French constituent unconditionals relativize a free choice item, in *Theory, data, and
 practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
 
 ## 2020
