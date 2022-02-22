@@ -11,11 +11,13 @@ author_profile: true
 
 Kazuko Yatsushiro, {Chiara Dal Farra, **Aurore Gonzalez**, Johannes Hein, Silvia Silleresi}, {Alicia Avellana, Aijun Huang, Johnson F. Ilori, Gayathri G. Krishnan, Lilla Pintér}, {Maria Teresa Guasti, Uli Sauerland}. To appear. Children's *Wh*-Questions across Languages: Some Preliminary Results. *Proceedings of the 46th annual Boston University Conference on Language Development*
 
-{**Aurore Gonzalez**, [Justin Royer](http://justinroyer.lingspace.org/?page_id=16)}. To appear. An expletive negation unlike any other in Québec French: Exploring a ‘complex NPI’ analysis. *Isogloss*.
-
 {**Aurore Gonzalez**, Karoliina Lohiniva}. To appear. French constituent unconditionals relativize a free choice item, in *Theory, data, and
 practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
 
+
+## 2022
+
+{**Aurore Gonzalez**, [Justin Royer](http://justinroyer.lingspace.org/?page_id=16)}. 2022. An expletive negation unlike any other in Québec French: Exploring a ‘complex NPI’ analysis. RLLT17, eds. Ora Matushansky, Laurent Roussarie, Michela Russo, Elena Soare & Sophie Wauquier.  Special issue of *Isogloss Open Journal of Romance Linguistics* 8(2)/3, 1-19. DOI: https://doi.org/10.5565/rev/isogloss.119
 ## 2020
 
 [Exclusivity in Unconditionals](https://www.ledonline.it/snippets/allegati/snippets39001.pdf) [with Karoliina Lohiniva], Snippets 39: 1-2. 
