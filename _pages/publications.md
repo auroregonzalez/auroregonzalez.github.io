@@ -23,7 +23,7 @@ practice: Selected papers from the 49th Linguistic Symposium on Romance Language
 
 {**Aurore Gonzalez**, Karoliina Lohiniva}. 2020. Exclusivity in Unconditionals. *Snippets* 39, 1-2. DOI: http://dx.doi.org/10.7358/snip-2020-039-golo 
 
-[A Compositional Semantics for Free Choice Constituent Unconditionals](https://semanticsarchive.net/Archive/jI3N2NlY/gonzalez_lohiniva_sub.pdf) [with Karoliina Lohiniva], in M. Franke, N. Kompa, M. Liu, J. Mueller, and J. Schwab (eds.), Proceedings of Sinn und Bedeutung 24. 1, 223-241.
+{**Aurore Gonzalez**, Karoliina Lohiniva}. 2020. [A Compositional Semantics for Free Choice Constituent Unconditionals](https://semanticsarchive.net/Archive/jI3N2NlY/gonzalez_lohiniva_sub.pdf), in M. Franke, N. Kompa, M. Liu, J. Mueller, and J. Schwab (eds.), Proceedings of Sinn und Bedeutung 24. 1, 223-241.
 
 ## 2019
 
