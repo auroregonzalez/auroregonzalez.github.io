@@ -18,9 +18,10 @@ practice: Selected papers from the 49th Linguistic Symposium on Romance Language
 ## 2022
 
 {**Aurore Gonzalez**, [Justin Royer](http://justinroyer.lingspace.org/?page_id=16)}. 2022. An expletive negation unlike any other in Québec French: Exploring a ‘complex NPI’ analysis. RLLT17, eds. Ora Matushansky, Laurent Roussarie, Michela Russo, Elena Soare & Sophie Wauquier.  Special issue of *Isogloss Open Journal of Romance Linguistics* 8(2)/3, 1-19. DOI: https://doi.org/10.5565/rev/isogloss.119
+
 ## 2020
 
-[Exclusivity in Unconditionals](https://www.ledonline.it/snippets/allegati/snippets39001.pdf) [with Karoliina Lohiniva], Snippets 39: 1-2. 
+{**Aurore Gonzalez**, Karoliina Lohiniva}. 2020. Exclusivity in Unconditionals. *Snippets* 39, 1-2. DOI: http://dx.doi.org/10.7358/snip-2020-039-golo 
 
 [A Compositional Semantics for Free Choice Constituent Unconditionals](https://semanticsarchive.net/Archive/jI3N2NlY/gonzalez_lohiniva_sub.pdf) [with Karoliina Lohiniva], in M. Franke, N. Kompa, M. Liu, J. Mueller, and J. Schwab (eds.), Proceedings of Sinn und Bedeutung 24. 1, 223-241.
 
