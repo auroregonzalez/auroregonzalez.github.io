@@ -6,10 +6,14 @@ author_profile: true
 \
 Some recent and upcoming presentations (a full list can be found in my [CV](http://auroregonzalez.github.io/files/CV_sept2021.pdf)):
 
+## 2022
+
+Negative concord in the acquisition of non-negative concord languages [with [Johannes Hein](https://www.johannes-hein.de/index.html) (1st author), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/) and [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti). Talk at *CLS 58*, The University of Chicago, April 22-24.
+
 
 ## 2021
 
-How children ask questions across languages [with [K. Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) (1st author), [C. Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [J. Hein](https://www.johannes-hein.de/index.html), [S. Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), A. Avellana, A. Huang, J. Ilori, G. Gayathri, L. Pintér, [M. Guasti](https://www.unimib.it/maria-teresa-guasti) and [U. Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *BUCLD 46*, Boston University, November 4-7.
+How children ask questions across languages [with [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) (1st author), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), Alicia Avellana, Aijun Huang, Johnson F. Ilori, Gayathri G. Krishnan, Lilla Pintér, [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *BUCLD 46*, Boston University, November 4-7.
 
 Presuppositions in polar questions. Poster at *SALT 31*, Brown University, May 7-9.
 
