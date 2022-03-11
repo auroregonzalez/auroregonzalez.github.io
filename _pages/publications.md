@@ -9,7 +9,7 @@ author_profile: true
 
 **Aurore Gonzalez**. Under review. Residue of Universality.
 
-Kazuko Yatsushiro, {Chiara Dal Farra, **Aurore Gonzalez**, Johannes Hein, Silvia Silleresi}, {Alicia Avellana, Aijun Huang, Johnson F. Ilori, Gayathri G. Krishnan, Lilla Pintér}, {Maria Teresa Guasti, Uli Sauerland}. To appear. Children's *Wh*-Questions across Languages: Some Preliminary Results. *Proceedings of the 46th annual Boston University Conference on Language Development*
+[Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), {[Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), **Aurore Gonzalez**, [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/)}, {Alicia Avellana, Aijun Huang, Johnson F. Ilori, Gayathri G. Krishnan, Lilla Pintér}, {[Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)}. To appear. Children's *Wh*-Questions across Languages: Some Preliminary Results. *Proceedings of the 46th annual Boston University Conference on Language Development*
 
 {**Aurore Gonzalez**, Karoliina Lohiniva}. To appear. French constituent unconditionals relativize a free choice item, in *Theory, data, and
 practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
