@@ -8,6 +8,11 @@ Some recent and upcoming presentations (a full list can be found in my [CV](http
 
 ## 2022
 
+Do child languages have negative concord? A corpus study [with [Johannes Hein](https://www.johannes-hein.de/index.html) (1st author), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/)]. Poster at *GALA 15*, Goethe Universität Frankfurt, September 22-24.
+
+Presupposition projection from the scope of 'say' [1st author, with [Paloma Jeretič](https://wp.nyu.edu/paloma/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html)].\
+Talk at *SuB 27*,  Charles University, September 14-16.
+
 Negative concord in the acquisition of non-negative concord languages [with [Johannes Hein](https://www.johannes-hein.de/index.html) (1st author), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/) and [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti)]. Talk at *CLS 58*, The University of Chicago, April 22-24.
 
 
