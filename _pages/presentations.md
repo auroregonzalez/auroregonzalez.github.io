@@ -8,6 +8,10 @@ Some recent and upcoming presentations (a full list can be found in my [CV](http
 
 ## 2022
 
+Use of null-arguments in *wh*-questions: the view from Malayalam and Telugu [with [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) (1st author), Varsha Eturi, [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), Gayathri G. Krishnan, Vaijayanthi Sarma, [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Talk at *BUCLD 47*, Boston University, November 3-6.
+
+What do you think we know about Italian children's long-distance wh-questions? [with [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/) (1st author), [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland) and [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti)]. Poster at *BUCLD 47*, Boston University, November 3-6.
+
 Do child languages have negative concord? A corpus study [with [Johannes Hein](https://www.johannes-hein.de/index.html) (1st author), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/)]. Poster at *GALA 15*, Goethe Universität Frankfurt, September 22-24.
 
 Presupposition projection from the scope of 'say' [1st author, with [Paloma Jeretič](https://wp.nyu.edu/paloma/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html)]. Talk at *SuB 27*,  Charles University, September 14-16.
