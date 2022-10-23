@@ -8,7 +8,7 @@ Some recent and upcoming presentations (a full list can be found in my [CV](http
 
 ## 2022
 
-As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [1st co-author with [Cory Bill](https://www.corybill.com/), with [Imke Driemel](https://sites.google.com/site/imkedriemel/home) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at **AC 2022**, ILLC, University of Amsterdam, December 19-21.
+As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [1st co-author with [Cory Bill](https://www.corybill.com/), with [Imke Driemel](https://sites.google.com/site/imkedriemel/home) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at **AC 23**, ILLC, University of Amsterdam, December 19-21.
 
 Use of null-arguments in *wh*-questions: the view from Malayalam and Telugu [with [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) (1st author), Varsha Eturi, [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), Gayathri G. Krishnan, Vaijayanthi Sarma, [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at **BUCLD 47**, Boston University, November 3-6.
 
