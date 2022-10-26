@@ -6,6 +6,12 @@ author_profile: true
 \
 Some recent and upcoming presentations (a full list can be found in my [CV](http://auroregonzalez.github.io/files/CV_august2022.pdf)):
 
+
+## 2023
+
+As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [1st co-author with [Cory Bill](https://www.corybill.com/), with [Imke Driemel](https://sites.google.com/site/imkedriemel/home) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at **NELS 53**, University of Göttingen, January 12-14.
+
+
 ## 2022
 
 As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [1st co-author with [Cory Bill](https://www.corybill.com/), with [Imke Driemel](https://sites.google.com/site/imkedriemel/home) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at **AC 23**, ILLC, University of Amsterdam, December 19-21.
