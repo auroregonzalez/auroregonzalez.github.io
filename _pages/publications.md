@@ -12,6 +12,8 @@ author_profile: true
 
 ## 2022 / To appear
 
+{[Cory Bill](https://www.corybill.com/), **Aurore Gonzalez**}, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en). To appear. As complex as they appear: Children's comprehension of conjunctive expressions in Georgian. *Proceedings of Amsterdam Colloquium 23*
+
 {**Aurore Gonzalez**, Karoliina Lohiniva}. To appear. French constituent unconditionals relativize a free choice item, in *Theory, data, and
 practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
 
