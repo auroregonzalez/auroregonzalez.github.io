@@ -14,12 +14,12 @@ author_profile: true
 ## 2023 / To appear
 
 
-[Johannes Hein](https://www.johannes-hein.de/index.html), {[Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/)}. To appear. Negative concord in the acquisition of English and German: Some results from a corpus study. *Proceedings of CLS 58*
-
 **Aurore Gonzalez**. To appear. Interrogative particles in polar questions: the view from Finnish and Turkish. *Glossa*
 
 {**Aurore Gonzalez**, Karoliina Lohiniva}. To appear. French constituent unconditionals relativize a free choice item, in *Theory, data, and
 practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
+
+[Johannes Hein](https://www.johannes-hein.de/index.html), {[Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/)}. To appear. Negative concord in the acquisition of English and German: Some results from a corpus study. *Proceedings of CLS 58*
 
 
 ## 2022
