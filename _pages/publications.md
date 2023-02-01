@@ -38,7 +38,7 @@ practice: Selected papers from the 49th Linguistic Symposium on Romance Language
 
 ## 2019
 
-**Aurore Gonzalez**, Kate Henninger and [Kathryn Davidson](https://scholar.harvard.edu/kathryndavidson/home). 2019. Answering negative questions in American Sign Language. In M. Baird and J. Pesetsky (eds.), *NELS 49: Proceedings of the Forty-Ninth Annual Meeting of the North East Linguistic Society*. 2, 31-44.
+**Aurore Gonzalez**, Kate Henninger and [Kathryn Davidson](https://scholar.harvard.edu/kathryndavidson/home). 2019. [Answering negative questions in American Sign Language](http://auroregonzalez.github.io/files/gonzalez_henninger_davidson_2019.pdf). In M. Baird and J. Pesetsky (eds.), *NELS 49: Proceedings of the Forty-Ninth Annual Meeting of the North East Linguistic Society*. 2, 31-44.
 
 {**Aurore Gonzalez**, Yuyin He, [Julia Sturm](https://scholar.harvard.edu/sturm)}. 2019. [A Guide to Writing a Senior Thesis in Linguistics](http://auroregonzalez.github.io/files/a_guide_to_writing_a_senior_thesis_in_linguistics_2019.pdf), Harvard Writing Center.
 
