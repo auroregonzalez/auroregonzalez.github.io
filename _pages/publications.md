@@ -6,7 +6,7 @@ author_profile: true
 ## Under review
 
 
-{[Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Johannes Hein](https://www.johannes-hein.de/index.html)}, {[Cory Bill](https://www.corybill.com/), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/)}. Under review. Negative concord and negative indefinites: Insights from commission errors.
+{[Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Johannes Hein](https://www.johannes-hein.de/index.html)}, {[Cory Bill](https://www.corybill.com/), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/)}. Under review. Negative Concord without Agree: Insights from German, Dutch and English child language.
 
 **Aurore Gonzalez**. Under review. Residue of Universality.
 
