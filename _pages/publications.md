@@ -13,6 +13,7 @@ author_profile: true
 
 ## 2023 / To appear
 
+**Aurore Gonzalez**, [Paloma Jeretič](https://wp.nyu.edu/paloma/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). To appear. Presupposition projection from the scope of *say*. *Proceedings of SuB 27*.
 
 **Aurore Gonzalez**. To appear. Interrogative particles in polar questions: the view from Finnish and Turkish. *Glossa*
 
