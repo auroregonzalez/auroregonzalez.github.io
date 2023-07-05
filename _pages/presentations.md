@@ -13,6 +13,8 @@ Sì e  no:  How  Italian  children  answer  positive  and  negative  polar  ques
 
 The acquisition of long-distance *wh*-questions in Italian: a production study [with [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at **The Romance Turn 11**, University of Madrid, September 19-21.
 
+Simple vs. complex conjunctions: insights from Georgian and Hungarian [1st co-author with [Cory Bill](https://www.corybill.com/), with [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)] and Lilla Pintér]. Talk at *logic ∧ grammar ∧ meaning*, University of Milano-Bicocca, June 7-8.
+
 As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [1st co-author with [Cory Bill](https://www.corybill.com/), with [Imke Driemel](https://sites.google.com/site/imkedriemel/home) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at **NELS 53**, University of Göttingen, January 12-14.
 
 
