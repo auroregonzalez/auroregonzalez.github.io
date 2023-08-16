@@ -22,7 +22,7 @@ practice: Selected papers from the 49th Linguistic Symposium on Romance Language
 
 ## 2023 
 
-**Aurore Gonzalez**. 2023. Interrogative particles in polar questions: the view from Finnish and Turkish. *Glossa: a journal of general linguistics*, 8(1). DOI: [10.16995/glossa.6487](https://doi.org/10.16995/glossa.6487)
+**Aurore Gonzalez**. 2023. [Interrogative particles in polar questions: the view from Finnish and Turkish](https://www.glossa-journal.org/article/id/6487/). *Glossa: a journal of general linguistics*, 8(1). DOI: [10.16995/glossa.6487](https://doi.org/10.16995/glossa.6487)
 
 \*[Imke Driemel](https://sites.google.com/site/imkedriemel/home), \*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/). 2023. [Negative Concord without Agree: Insights from German, Dutch and English child language](https://lingbuzz.net/lingbuzz/007416). *Languages*, 8(3), 179. DOI: [10.3390/languages8030179](https://doi.org/10.3390/languages8030179)
 
