@@ -15,5 +15,5 @@ My research focuses on the semantics of natural language and its interface with 
 I am a postdoctoral researcher involved in the [LeibnizDream](https://leibnizdream.eu/) project “Realizing Leibniz’s Dream: Child Languages as a Mirror of the Mind” (PIs: Artemis Alexiadou (HU), Maria Teresa Guasti (UniMiB), and Uli Sauerland (ZAS)). I received my PhD from Harvard University in January 2021, with a dissertation on polar questions and interrogative particles supervised by [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home).
 
 
-You can contact me at auroregonzalez 'at' g.harvard.edu or aurore.gonzalez 'at' unimib.it
+You can contact me at auroregonzalez 'at' alumni.harvard.edu or aurore.gonzalez 'at' unimib.it
 
