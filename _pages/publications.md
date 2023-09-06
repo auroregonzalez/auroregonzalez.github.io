@@ -13,7 +13,7 @@ author_profile: true
 
 ## To appear
 
-\***Aurore Gonzalez**, \*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). To appear. Presupposition projection from the scope of *say*. *Proceedings of SuB 27*.
+\***Aurore Gonzalez**, \*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). To appear. Presupposition projection from the scope of *say*. In M. Onoeva, A. Staňková and R. Šimík, *Proceedings of SuB 27*.
 
 **Aurore Gonzalez**, Karoliina Lohiniva. To appear. French constituent unconditionals relativize a free choice item, in *Theory, data, and
 practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
