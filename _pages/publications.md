@@ -15,7 +15,7 @@ author_profile: true
 
 \***Aurore Gonzalez**, \*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). To appear. Presupposition projection from the scope of *say*. In M. Onoeva, A. Staňková and R. Šimík, *Proceedings of SuB 27*.
 
-**Aurore Gonzalez**, Karoliina Lohiniva. To appear. French constituent unconditionals relativize a free choice item, in *Theory, data, and
+**Aurore Gonzalez**, Karoliina Lohiniva. To appear. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), in *Theory, data, and
 practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
 
 \*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/). To appear. [Negative concord in the acquisition of English and German: Some results from a corpus study](https://ling.auf.net/lingbuzz/007243). *Proceedings of CLS 58*
