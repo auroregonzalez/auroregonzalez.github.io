@@ -18,13 +18,14 @@ author_profile: true
 **Aurore Gonzalez**, Karoliina Lohiniva. To appear. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), in *Theory, data, and
 practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
 
-\*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/). To appear. [Negative concord in the acquisition of English and German: Some results from a corpus study](https://ling.auf.net/lingbuzz/007243). *Proceedings of CLS 58*
 
 ## 2023 
 
 **Aurore Gonzalez**. 2023. [Interrogative particles in polar questions: the view from Finnish and Turkish](https://www.glossa-journal.org/article/id/6487/). *Glossa: a journal of general linguistics*, 8(1). DOI: [10.16995/glossa.6487](https://doi.org/10.16995/glossa.6487)
 
 \*[Imke Driemel](https://sites.google.com/site/imkedriemel/home), \*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/). 2023. [Negative Concord without Agree: Insights from German, Dutch and English child language](https://lingbuzz.net/lingbuzz/007416). *Languages*, 8(3), 179. DOI: [10.3390/languages8030179](https://doi.org/10.3390/languages8030179)
+
+\*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/). 2023. [Negative concord in the acquisition of English and German: Some results from a corpus study](https://ling.auf.net/lingbuzz/007243). In L. Fagen, S. Gray, Quain, S. Reyes, and I. Tang(eds.), *Proceedings of CLS 58*, 167-182.
 
 
 ## 2022
