@@ -19,7 +19,6 @@ author_profile: true
 **Aurore Gonzalez**, Karoliina Lohiniva. To appear. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), in *Theory, data, and
 practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
 
-
 ## 2023 
 
 **Aurore Gonzalez**. 2023. [Interrogative particles in polar questions: the view from Finnish and Turkish](https://www.glossa-journal.org/article/id/6487/). *Glossa: a journal of general linguistics*, 8(1). DOI: [10.16995/glossa.6487](https://doi.org/10.16995/glossa.6487)
