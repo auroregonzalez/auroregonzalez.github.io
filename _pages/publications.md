@@ -6,10 +6,11 @@ author_profile: true
 
 *If indicated, \* signals first (co-)authorship.*
 
-## Under review
+## In progress
+
+*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland), and [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro). Submitted. Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers.
 
 **Aurore Gonzalez**. Under review. Residue of Universality.
-
 
 ## To appear
 
@@ -23,7 +24,7 @@ practice: Selected papers from the 49th Linguistic Symposium on Romance Language
 
 **Aurore Gonzalez**. 2023. [Interrogative particles in polar questions: the view from Finnish and Turkish](https://www.glossa-journal.org/article/id/6487/). *Glossa: a journal of general linguistics*, 8(1). DOI: [10.16995/glossa.6487](https://doi.org/10.16995/glossa.6487)
 
-\*[Imke Driemel](https://sites.google.com/site/imkedriemel/home), \*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/). 2023. [Negative Concord without Agree: Insights from German, Dutch and English child language](https://lingbuzz.net/lingbuzz/007416). *Languages*, 8(3), 179. DOI: [10.3390/languages8030179](https://doi.org/10.3390/languages8030179)
+\*[Imke Driemel](https://sites.google.com/site/imkedriemel/home), \*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/), [Astrid van Alem](https://sites.google.com/view/astridvanalem/homepage). 2023. [Negative Concord without Agree: Insights from German, Dutch and English child language](https://lingbuzz.net/lingbuzz/007416). *Languages*, 8(3), 179. DOI: [10.3390/languages8030179](https://doi.org/10.3390/languages8030179)
 
 \*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), **Aurore Gonzalez**, Ivona Ilić, [Paloma Jeretič](https://wp.nyu.edu/paloma/). 2023. [Negative concord in the acquisition of English and German: Some results from a corpus study](https://ling.auf.net/lingbuzz/007243). In L. Fagen, S. Gray, Quain, S. Reyes, and I. Tang (eds.), *Proceedings of the 58th Annual Meeting
 of the Chicago Linguistic Society*, 167-182.
