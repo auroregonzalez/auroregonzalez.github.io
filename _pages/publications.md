@@ -8,7 +8,7 @@ author_profile: true
 
 ## In progress
 
-*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Submitted. Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers.
+*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Submitted. [Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers](jereticEtAl_23_Core-Conce.pdf).
 
 **Aurore Gonzalez**. Under review. Residue of Universality.
 
