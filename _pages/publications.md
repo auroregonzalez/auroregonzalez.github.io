@@ -8,13 +8,13 @@ author_profile: true
 
 ## In progress
 
-*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Submitted. [Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers](jereticEtAl_23_Core-Conce.pdf).
+*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Submitted. [Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers](http://auroregonzalez.github.io/files/jereticEtAl_23_Core-Conce.pdf).
 
 **Aurore Gonzalez**. Under review. Residue of Universality.
 
 ## To appear
 
-\***Aurore Gonzalez**, \*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). To appear. Presupposition projection from the scope of *say*. In M. Onoeva, A. Staňková and R. Šimík, *Proceedings of SuB 27*.
+\***Aurore Gonzalez**, \*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). To appear. [Presupposition projection from the scope of *say*](http://auroregonzalez.github.io/files/GonzalezEtAl2023_Presupposition-projection.pdf). In M. Onoeva, A. Staňková and R. Šimík, *Proceedings of SuB 27*.
 
 **Aurore Gonzalez**, Karoliina Lohiniva. To appear. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), in *Theory, data, and
 practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
