@@ -14,12 +14,11 @@ author_profile: true
 
 ## To appear
 
-\***Aurore Gonzalez**, \*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). To appear. [Presupposition projection from the scope of *say*](http://auroregonzalez.github.io/files/GonzalezEtAl2023_Presupposition-projection.pdf). In M. Onoeva, A. Staňková and R. Šimík, *Proceedings of SuB 27*.
-
-**Aurore Gonzalez**, Karoliina Lohiniva. To appear. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), in *Theory, data, and
-practice: Selected papers from the 49th Linguistic Symposium on Romance Language*.
+**Aurore Gonzalez**, Karoliina Lohiniva. To appear. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), In C. Howe, P. Chamorro, T. Gupton and M. Renwick (eds.), *Theory, data, and practice*.
 
 ## 2023 
+
+\***Aurore Gonzalez**, \*[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). 2023. [Presupposition projection from the scope of *say*](http://auroregonzalez.github.io/files/GonzalezEtAl2023_Presupposition-projection.pdf). In M. Onoeva, A. Staňková and R. Šimík (eds.), *Proceedings of Sinn und Bedeutung 27*, 253-271.
 
 **Aurore Gonzalez**. 2023. [Interrogative particles in polar questions: the view from Finnish and Turkish](https://www.glossa-journal.org/article/id/6487/). *Glossa: a journal of general linguistics*, 8(1). DOI: [10.16995/glossa.6487](https://doi.org/10.16995/glossa.6487)
 
