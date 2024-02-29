@@ -9,6 +9,8 @@ Some recent and upcoming presentations (a full list can be found in my [CV](http
 
 ## 2023
 
+Is DP conjunction always complex? The view from Georgian. Invited talk at *SynSem Seminar*, LLING UMR 6310 CNRS/Université de Nantes, November 20.
+
 Sì e  no:  How  Italian  children  answer  positive  and  negative  polar  questions [with [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Desiré Carioti](http://www.bilgroup.it/en/desire-carioti-2/) and [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti)]. Talk at *The Romance Turn 11*, University of Madrid, September 19-21.
 
 The acquisition of long-distance *wh*-questions in Italian: a production study [with [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *The Romance Turn 11*, University of Madrid, September 19-21.
