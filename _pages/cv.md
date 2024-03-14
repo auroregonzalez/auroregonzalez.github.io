@@ -1,6 +1,6 @@
 ---
 title: "CV"
-permalink: /files/CV-feb2024.pdf
+permalink: 
 author_profile: true
 ---
 
