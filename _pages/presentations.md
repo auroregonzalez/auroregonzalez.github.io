@@ -9,7 +9,7 @@ Some recent and upcoming presentations (a full list can be found in my [CV](http
 
 ## 2024
 
-A dual key concept, phonologically realized or not [with Paloma Jeretic, Itai Bassi, Aurore Gonzalez, Marie-Christine Meyer, Kazuko Yatsushiro and Uli Sauerland]
+A dual key concept, phonologically realized or not [with [Paloma Jeretič](https://wp.nyu.edu/paloma/) (1st author), [Itai Bassi](https://itaibassi.github.io/), [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *JSLS 2024*, Shizuoka, July 12-14.
 
 How do children answer polar questions? The view from Turkish [with Rümeysa Bektaş]. Poster at *RALFe 2024*, IKER UMR 5478, June 6-7.
 
