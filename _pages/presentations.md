@@ -7,6 +7,12 @@ author_profile: true
 Some recent and upcoming presentations (a full list can be found in my [CV](http://auroregonzalez.github.io/files/CV-feb2024.pdf)):
 
 
+## 2024
+
+A dual key concept, phonologically realized or not [with Paloma Jeretic, Itai Bassi, Aurore Gonzalez, Marie-Christine Meyer, Kazuko Yatsushiro and Uli Sauerland]
+
+How do children answer polar questions? The view from Turkish [with Rümeysa Bektaş]. Poster at *RALFe 2024*, IKER UMR 5478, June 6-7.
+
 ## 2023
 
 Is DP conjunction always complex? The view from Georgian. Invited talk at *SynSem Seminar*, LLING UMR 6310 CNRS/Université de Nantes, November 20.
