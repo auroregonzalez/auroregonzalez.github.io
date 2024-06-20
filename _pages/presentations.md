@@ -9,6 +9,8 @@ Some recent and upcoming presentations (a full list can be found in my [CV](http
 
 ## 2024
 
+Aspectual shift in Romance: an experimental investigation [1st author, with [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home)]. Poster at *SuB 29*, University of Messina/University of Enna "Kore", September 17-19.
+
 A dual key concept, phonologically realized or not [with [Paloma Jeretič](https://wp.nyu.edu/paloma/) (1st author), [Itai Bassi](https://itaibassi.github.io/), [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *JSLS 2024*, Shizuoka, July 12-14.
 
 Same but different: Conjunctive expressions in Georgian and Hungarian [1st co-author with [Cory Bill](https://www.corybill.com/), with [Imke Driemel](https://sites.google.com/site/imkedriemel/home)]. Talk at *Form and Meaning of Coordination*, University of Göttingen, July 4-6.
