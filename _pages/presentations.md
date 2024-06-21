@@ -4,7 +4,7 @@ permalink: /presentations/
 author_profile: true
 ---
 \
-Some recent and upcoming presentations (a full list can be found in my [CV](http://auroregonzalez.github.io/files/CV-feb2024.pdf)):
+Some recent and upcoming presentations (a full list can be found in my [CV](http://auroregonzalez.github.io/files/CV_june2024.pdf)):
 
 
 ## 2024
