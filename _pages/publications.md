@@ -8,7 +8,7 @@ author_profile: true
 
 ## In progress
 
-\*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). In revisions. Is DP conjunction always complex?: The view from child Georgian and Hungarian.
+\*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). Submitted. Is DP conjunction always complex?: The view from child Georgian and Hungarian.
 
 *[Paloma Jeretič](https://wp.nyu.edu/paloma/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Resubmitted. [Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers](https://ling.auf.net/lingbuzz/007694).
 
