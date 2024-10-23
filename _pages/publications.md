@@ -13,7 +13,7 @@ author_profile: true
 
 \*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). Submitted. Is DP conjunction always complex?: The view from child Georgian and Hungarian.
 
-*Paloma Jeretič, [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Resubmitted. [Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers](https://ling.auf.net/lingbuzz/007694).
+\*[Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Resubmitted. [Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers](https://ling.auf.net/lingbuzz/007694).
 
 **Aurore Gonzalez**. Under review. Residue of Universality.
 
@@ -23,13 +23,13 @@ author_profile: true
 
 ## 2023 
 
-\***Aurore Gonzalez**, \*Paloma Jeretič, [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). 2023. [Presupposition projection from the scope of *say*](http://auroregonzalez.github.io/files/GonzalezEtAl2023_Presupposition-projection.pdf). In M. Onoeva, A. Staňková and R. Šimík (eds.), *Proceedings of Sinn und Bedeutung 27*, 253-271.
+\***Aurore Gonzalez**, \*[Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). 2023. [Presupposition projection from the scope of *say*](http://auroregonzalez.github.io/files/GonzalezEtAl2023_Presupposition-projection.pdf). In M. Onoeva, A. Staňková and R. Šimík (eds.), *Proceedings of Sinn und Bedeutung 27*, 253-271.
 
 **Aurore Gonzalez**. 2023. [Interrogative particles in polar questions: the view from Finnish and Turkish](https://www.glossa-journal.org/article/id/6487/). *Glossa: a journal of general linguistics*, 8(1). DOI: [10.16995/glossa.6487](https://doi.org/10.16995/glossa.6487)
 
-\*[Imke Driemel](https://sites.google.com/site/imkedriemel/home), \*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), **Aurore Gonzalez**, Ivona Ilić, Paloma Jeretič, [Astrid van Alem](https://sites.google.com/view/astridvanalem/homepage). 2023. [Negative Concord without Agree: Insights from German, Dutch and English child language](https://lingbuzz.net/lingbuzz/007416). *Languages*, 8(3), 179. DOI: [10.3390/languages8030179](https://doi.org/10.3390/languages8030179)
+\*[Imke Driemel](https://sites.google.com/site/imkedriemel/home), \*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), **Aurore Gonzalez**, [Ivona Ilić](https://www.ivonailic.com/), [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Astrid van Alem](https://sites.google.com/view/astridvanalem/homepage). 2023. [Negative Concord without Agree: Insights from German, Dutch and English child language](https://lingbuzz.net/lingbuzz/007416). *Languages*, 8(3), 179. DOI: [10.3390/languages8030179](https://doi.org/10.3390/languages8030179)
 
-\*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), **Aurore Gonzalez**, Ivona Ilić, Paloma Jeretič. 2023. [Negative concord in the acquisition of English and German: Some results from a corpus study](https://ling.auf.net/lingbuzz/007243). In L. Fagen, S. Gray, Quain, S. Reyes, and I. Tang (eds.), *Proceedings of the 58th Annual Meeting
+\*[Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), **Aurore Gonzalez**, [Ivona Ilić](https://www.ivonailic.com/), [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/). 2023. [Negative concord in the acquisition of English and German: Some results from a corpus study](https://ling.auf.net/lingbuzz/007243). In L. Fagen, S. Gray, Quain, S. Reyes, and I. Tang (eds.), *Proceedings of the 58th Annual Meeting
 of the Chicago Linguistic Society*, 167-182.
 
 
