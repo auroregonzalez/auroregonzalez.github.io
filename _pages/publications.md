@@ -11,15 +11,15 @@ author_profile: true
 \*[Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/) \***Aurore Gonzalez**, \*[Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Desiré Carioti](https://www.unimib.it/desire-carioti), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti). Submitted. *Sì* e *no*: How Italian children and adults answer positive and negative polar questions.
 
 
-\*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). Submitted. Is DP conjunction always complex?: The view from child Georgian and Hungarian.
+\*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). In revisions. Is DP conjunction always complex?: The view from child Georgian and Hungarian.
 
 \*[Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Resubmitted. [Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers](https://ling.auf.net/lingbuzz/007694).
 
-**Aurore Gonzalez**. Under review. Residue of Universality.
+**Aurore Gonzalez**. In revisions. Residue of Universality.
 
-## To appear
+## Accepted / To appear
 
-**Aurore Gonzalez**, Karoliina Lohiniva. To appear. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), In C. Howe, P. Chamorro, T. Gupton and M. Renwick (eds.), *Theory, data, and practice*.
+**Aurore Gonzalez**, Karoliina Lohiniva. Accepted. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), In C. Howe, P. Chamorro, T. Gupton and M. Renwick (eds.), *Theory, data, and practice*.
 
 ## 2023 
 
