@@ -8,7 +8,7 @@ author_profile: true
 
 ## In progress
 
-\*[Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/) \***Aurore Gonzalez**, \*[Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Desiré Carioti](https://www.unimib.it/desire-carioti), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti). Submitted. *Sì* e *no*: How Italian children and adults answer positive and negative polar questions.
+\*[Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/) \***Aurore Gonzalez**, \*[Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Desiré Carioti](https://www.unimib.it/desire-carioti), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti). In revisions. *Sì* e *no*: How Italian children and adults answer positive and negative polar questions.
 
 
 \*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). In revisions. Is DP conjunction always complex?: The view from child Georgian and Hungarian.
