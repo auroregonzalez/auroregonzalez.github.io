@@ -21,6 +21,10 @@ author_profile: true
 
 **Aurore Gonzalez**, Karoliina Lohiniva. Accepted. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), In C. Howe, P. Chamorro, T. Gupton and M. Renwick (eds.), *Theory, data, and practice*.
 
+## 2024
+
+\*[Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), **Aurore Gonzalez**, [Itai Bassi](https://itaibassi.github.io/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). 2024. [DUAL as a core concept and the pronounceability of alternatives](https://events.illc.uva.nl/AC/AC2024/Proceedings/). In F. Carcassi, T. Johnson, S. B. Knudstorp, S. Domínguez Parrado, P. Rivas Robledo, and G. Sbardolini (eds.), *Proceedings of the 24th Amsterdam Colloquium*, 181-187.
+
 ## 2023 
 
 \***Aurore Gonzalez**, \*[Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html). 2023. [Presupposition projection from the scope of *say*](http://auroregonzalez.github.io/files/GonzalezEtAl2023_Presupposition-projection.pdf). In M. Onoeva, A. Staňková and R. Šimík (eds.), *Proceedings of Sinn und Bedeutung 27*, 253-271.
