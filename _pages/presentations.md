@@ -8,7 +8,7 @@ Some recent and upcoming presentations (a full list can be found in my [CV](http
 
 ## 2025
 
-Long-distance *wh*-questions in Italian: a view from acquisition [with [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *Incontro di Grammatica Generativa 50*, University of Padua, February 20-21.
+Long-distance *wh*-questions in Italian: a view from acquisition [with [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *Incontro di Grammatica Generativa 50*, University of Padua, February 19-21.
 
 ## 2024
 
