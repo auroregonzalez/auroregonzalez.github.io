@@ -8,11 +8,11 @@ Some recent and upcoming presentations (a full list can be found in my [CV](http
 
 ## 2025
 
-Long-distance *wh*-questions in Italian: a view from acquisition [with [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *Incontro di Grammatica Generativa 50*, University of Padua, February 19-21.
+Long-distance *wh*-questions in Italian: a view from acquisition [with [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *IGG 50*, University of Padua, February 19-21.
 
 ## 2024
 
-Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers [with [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Itai Bassi](https://itaibassi.github.io/), [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *AC 24*, ILLC, University of Amsterdam, December 18-20.
+Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers [with [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Itai Bassi](https://itaibassi.github.io/), [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *Amsterdam Colloquium 24*, ILLC, University of Amsterdam, December 18-20.
 
 Aspectual shift in Romance: an experimental investigation [with [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home)]. Poster at *SuB 29*, University of Messina/University of Enna "Kore", September 17-19.
 
@@ -39,7 +39,7 @@ As complex as they appear: Children's comprehension of conjunctive expressions i
 
 ## 2022
 
-As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [with [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at *AC 23*, ILLC, University of Amsterdam, December 19-21.
+As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [with [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at *Amsterdam Colloquium 23*, ILLC, University of Amsterdam, December 19-21.
 
 Use of null-arguments in *wh*-questions: the view from Malayalam and Telugu [with [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), Varsha Eturi, [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), Gayathri G. Krishnan, Vaijayanthi Sarma, [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *BUCLD 47*, Boston University, November 3-6.
 
