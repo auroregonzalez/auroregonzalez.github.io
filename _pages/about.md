@@ -20,7 +20,7 @@ You can contact me at auroregonzalez 'at' alumni.harvard.edu or aurore.gonzalez 
 
 **Recent & upcoming**
 
-- "Testing aspectual shift in Romance" with [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home), to be presented at *RALFe 2025* on June 5-6, 2025.
+- "Testing aspectual shift in Romance" with [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home), to be presented at *RALFe 2025* on June 5, 2025.
 - The workshop "A Hitchhiker’s Guide to Interpreting Bare Arguments: The Workshop" will be held at *Nantes Université* on May 12-13, 2025. The program can be found [here](https://anamariafalaus.org/workshop/).
 - "[French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf)" with Karoliina Lohiniva, to appear in the volume *Theory, data, and practice*.
 - "Long-distance *wh*-questions in Italian: a view from acquisition" with Chiara Dal Farra, [Johannes Hein](https://www.johannes-hein.de/), Silvia Silleresi, [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland), presented at *Incontro di Grammatica Generativa 50* on February 20, 2025.
