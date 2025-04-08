@@ -16,7 +16,7 @@ author_profile: true
 
 ## Accepted / To appear
 
-\*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). Accepted. Is DP conjunction always complex?: The view from child Georgian and Hungarian. *Semantics \& Pragmatics*.
+\*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). Accepted. Is DP conjunction always complex?: The view from child Georgian and Hungarian. *Semantics & Pragmatics*.
 
 **Aurore Gonzalez**, Karoliina Lohiniva. Accepted. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), In C. Howe, P. Chamorro, T. Gupton and M. Renwick (eds.), *Theory, data, and practice*.
 
