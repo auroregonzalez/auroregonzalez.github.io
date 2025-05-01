@@ -18,6 +18,8 @@ author_profile: true
 
 \*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). Accepted. [Is DP conjunction always complex?: The view from child Georgian and Hungarian](https://lingbuzz.net/lingbuzz/008974). *Semantics & Pragmatics*.
 
+\***Aurore Gonzalez**, [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home). To appear. Aspectual shift in Romance: a preliminary study. *Proceedings of Sinn und Bedeutung 29*.
+
 **Aurore Gonzalez**, Karoliina Lohiniva. Accepted. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), In C. Howe, P. Chamorro, T. Gupton and M. Renwick (eds.), *Theory, data, and practice*.
 
 ## 2024
