@@ -20,7 +20,8 @@ You can contact me at auroregonzalez 'at' alumni.harvard.edu or aurore.gonzalez 
 
 **Recent & upcoming**
 
-- "[Is DP conjunction always complex?: The view from child Georgian and Hungarian](https://lingbuzz.net/lingbuzz/008974)" with [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en) and [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile), accepted in *Semantics & Pragmatics*.
+- "[Is DP conjunction always complex?: The view from child Georgian and Hungarian](https://lingbuzz.net/lingbuzz/008974)" with [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en) and [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile), accepted at *Semantics & Pragmatics*.
+- "Aspectual shift in Romance: a preliminary study" with [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home), to appear in the *Proceedings of Sinn und Bedeutung 29*.
 - "Testing aspectual shift in Romance" with [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home), to be presented at *RALFe 2025* on June 5, 2025.
 - The workshop "A Hitchhiker’s Guide to Interpreting Bare Arguments: The Workshop" will be held at *Nantes Université* on May 12-13, 2025. The program can be found [here](https://anamariafalaus.org/workshop/).
 - "[French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf)" with Karoliina Lohiniva, to appear in the volume *Theory, data, and practice*.
