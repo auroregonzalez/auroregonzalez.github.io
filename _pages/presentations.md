@@ -20,7 +20,7 @@ Aspectual shift in Romance: an experimental investigation [with [Anamaria Fălă
 
 A dual key concept, phonologically realized or not [with [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Itai Bassi](https://itaibassi.github.io/), [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *JSLS 2024*, Shizuoka, July 12-14.
 
-Same but different: Conjunctive expressions in Georgian and Hungarian [with [Cory Bill](https://www.corybill.com/) and [Imke Driemel](https://sites.google.com/site/imkedriemel/home)]. Talk at *Form and Meaning of Coordination*, University of Göttingen, July 4-6.
+Same but different: Conjunctive expressions in Georgian and Hungarian [with [Cory Bill](https://www.corybill.com/) and [Imke Driemel](http://imke.driemel.net/)]. Talk at *Form and Meaning of Coordination*, University of Göttingen, July 4-6.
 
 Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers [with [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Itai Bassi](https://itaibassi.github.io/), [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Poster at *Workshop on Speech Act Related Operators*, ZAS, June 27-29.
 
@@ -34,24 +34,24 @@ Sì e  no:  How  Italian  children  answer  positive  and  negative  polar  ques
 
 The acquisition of long-distance *wh*-questions in Italian: a production study [with [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *The Romance Turn 11*, University of Madrid, September 19-21.
 
-Simple vs. complex conjunctions: insights from Georgian and Hungarian [with [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)] and Lilla Pintér]. Talk at *logic ∧ grammar ∧ meaning*, University of Milano-Bicocca, June 7-8.
+Simple vs. complex conjunctions: insights from Georgian and Hungarian [with [Cory Bill](https://www.corybill.com/), [Imke Driemel](http://imke.driemel.net/), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)] and Lilla Pintér]. Talk at *logic ∧ grammar ∧ meaning*, University of Milano-Bicocca, June 7-8.
 
-As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [with [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at *NELS 53*, University of Göttingen, January 12-14.
+As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [with [Cory Bill](https://www.corybill.com/), [Imke Driemel](http://imke.driemel.net/) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at *NELS 53*, University of Göttingen, January 12-14.
 
 
 ## 2022
 
-As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [with [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at *Amsterdam Colloquium 23*, ILLC, University of Amsterdam, December 19-21.
+As complex as they appear: Children's comprehension of conjunctive expressions in Georgian [with [Cory Bill](https://www.corybill.com/), [Imke Driemel](http://imke.driemel.net/) and [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en)]. Poster at *Amsterdam Colloquium 23*, ILLC, University of Amsterdam, December 19-21.
 
 Use of null-arguments in *wh*-questions: the view from Malayalam and Telugu [with [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), Varsha Eturi, [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), Gayathri G. Krishnan, Vaijayanthi Sarma, [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *BUCLD 47*, Boston University, November 3-6.
 
 What do you think we know about Italian children's long-distance *wh*-questions? [with [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland) and [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti)]. Poster at *BUCLD 47*, Boston University, November 3-6.
 
-Do child languages have negative concord? A corpus study [with [Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), Ivona Ilić, [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/)]. Poster at *GALA 15*, Goethe Universität Frankfurt, September 22-24.
+Do child languages have negative concord? A corpus study [with [Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), [Imke Driemel](http://imke.driemel.net/), Ivona Ilić, [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/)]. Poster at *GALA 15*, Goethe Universität Frankfurt, September 22-24.
 
 Presupposition projection from the scope of 'say' [with [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), [Johannes Hein](https://www.johannes-hein.de/index.html)]. Talk at *SuB 27*,  Charles University, September 14-16.
 
-Negative concord in the acquisition of non-negative concord languages [with [Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), Ivona Ilić, [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/) and [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti)]. Talk at *CLS 58*, The University of Chicago, April 22-24.
+Negative concord in the acquisition of non-negative concord languages [with [Johannes Hein](https://www.johannes-hein.de/index.html), [Cory Bill](https://www.corybill.com/), [Imke Driemel](http://imke.driemel.net/), Ivona Ilić, [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/) and [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti)]. Talk at *CLS 58*, The University of Chicago, April 22-24.
 
 
 ## 2021
