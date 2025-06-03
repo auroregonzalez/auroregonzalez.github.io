@@ -8,7 +8,7 @@ author_profile: true
 
 ## In progress
 
-\*[Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/) \***Aurore Gonzalez**, \*[Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Desiré Carioti](https://www.unimib.it/desire-carioti), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti). Resubmitted. *Sì* e *no*: How Italian children and adults answer positive and negative polar questions.
+\*[Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/) \***Aurore Gonzalez**, \*[Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Desiré Carioti](https://www.unimib.it/desire-carioti), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti). In revisions. *Sì* e *no*: How Italian children and adults answer positive and negative polar questions.
 
 \*[Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). In revisions. [Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers](http://auroregonzalez.github.io/files/JereticEtAl2024.pdf).
 
@@ -16,11 +16,14 @@ author_profile: true
 
 ## Accepted / To appear
 
-\*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). Accepted. [Is DP conjunction always complex?: The view from child Georgian and Hungarian](https://lingbuzz.net/lingbuzz/008974). *Semantics & Pragmatics*.
-
 \***Aurore Gonzalez**, [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home). To appear. Aspectual shift in Romance: a preliminary study. *Proceedings of Sinn und Bedeutung 29*.
 
 **Aurore Gonzalez**, Karoliina Lohiniva. Accepted. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), In C. Howe, P. Chamorro, T. Gupton and M. Renwick (eds.), *Theory, data, and practice*.
+
+
+## 2025
+
+\*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). 2025. [Is DP conjunction always complex?: The view from child Georgian and Hungarian](https://doi.org/10.3765/sp.18.5). *Semantics & Pragmatics*, 18. DOI: [10.3765/sp.18.5](https://doi.org/10.3765/sp.18.5)
 
 ## 2024
 
