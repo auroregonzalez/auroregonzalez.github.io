@@ -4,4 +4,4 @@ permalink: /CV/
 author_profile: true
 ---
 
-Here is my [CV](http://auroregonzalez.github.io/files/CV_april2025.pdf).
+Here is my [CV](http://auroregonzalez.github.io/files/CV_june2025.pdf).
