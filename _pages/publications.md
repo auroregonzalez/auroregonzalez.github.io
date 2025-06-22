@@ -16,7 +16,7 @@ author_profile: true
 
 ## Accepted / To appear
 
-\***Aurore Gonzalez**, [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home). To appear. Aspectual shift in Romance: a preliminary study. *Proceedings of Sinn und Bedeutung 29*.
+\***Aurore Gonzalez**, [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home). To appear. [Aspectual shift in Romance: A preliminary study](http://auroregonzalez.github.io/files/GonzalezEtAl2025.pdf). *Proceedings of Sinn und Bedeutung 29*.
 
 **Aurore Gonzalez**, Karoliina Lohiniva. Accepted. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), In C. Howe, P. Chamorro, T. Gupton and M. Renwick (eds.), *Theory, data, and practice*.
 
