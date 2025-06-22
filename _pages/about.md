@@ -20,7 +20,7 @@ You can contact me at auroregonzalez 'at' alumni.harvard.edu or aurore.gonzalez 
 
 **Recent & upcoming**
 
-- "[Aspectual shift in Romance: a preliminary study](http://auroregonzalez.github.io/files/GonzalezEtAl2025.pdf)" with [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home), to appear in the *Proceedings of Sinn und Bedeutung 29*.
+- "[Aspectual shift in Romance: A preliminary study](http://auroregonzalez.github.io/files/GonzalezEtAl2025.pdf)" with [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home), to appear in the *Proceedings of Sinn und Bedeutung 29*.
 - "[Is DP conjunction always complex?: The view from child Georgian and Hungarian](https://doi.org/10.3765/sp.18.5)" with [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en) and [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile), published in *Semantics & Pragmatics*. DOI: [10.3765/sp.18.5](https://doi.org/10.3765/sp.18.5)
 - "Testing aspectual shift in Romance" with [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home), presented at *RALFe 2025* on June 5, 2025.
 - The workshop "A Hitchhiker’s Guide to Interpreting Bare Arguments: The Workshop" was held at *Nantes Université* on May 12-13, 2025. The program can be found [here](https://anamariafalaus.org/workshop/).
