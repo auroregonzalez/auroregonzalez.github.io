@@ -16,12 +16,12 @@ author_profile: true
 
 \*[Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), \***Aurore Gonzalez**, \*[Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Desiré Carioti](https://www.unimib.it/desire-carioti), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti). Accepted. *Sì* e *no*: How Italian children and adults answer positive and negative polar questions. *Language Acquisition*
 
-\***Aurore Gonzalez**, [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home). To appear. [Aspectual shift in Romance: A preliminary study](http://auroregonzalez.github.io/files/GonzalezEtAl2025.pdf). *Proceedings of Sinn und Bedeutung 29*.
-
 **Aurore Gonzalez**, Karoliina Lohiniva. Accepted. [French constituent unconditionals relativize a free choice item](http://auroregonzalez.github.io/files/French_constituent_unconditionals_relativize_a_free_choice_item.pdf), In C. Howe, P. Chamorro, T. Gupton and M. Renwick (eds.), *Theory, data, and practice*.
 
 
 ## 2025
+
+\***Aurore Gonzalez**, [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home). 2025. [Aspectual shift in Romance: A preliminary study](https://doi.org/10.18148/sub/2025.v29.1232). In F. Longo and D. Panizza (eds.), *Proceedings of Sinn und Bedeutung 29*, 584-600. DOI: [10.18148/sub/2025.v29.1232](https://doi.org/10.18148/sub/2025.v29.1232)
 
 \*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](http://imke.driemel.net/), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). 2025. [Is DP conjunction always complex?: The view from child Georgian and Hungarian](https://doi.org/10.3765/sp.18.5). *Semantics & Pragmatics*, 18(5). DOI: [10.3765/sp.18.5](https://doi.org/10.3765/sp.18.5)
 
