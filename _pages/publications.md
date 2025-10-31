@@ -8,11 +8,11 @@ author_profile: true
 
 ## In progress
 
-\*[Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Resubmitted. [Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers](http://auroregonzalez.github.io/files/JereticEtAl2024.pdf).
-
 **Aurore Gonzalez**. In revisions. [Residue of Universality](http://auroregonzalez.github.io/files/Gonzalez2024.pdf).
 
 ## Accepted / To appear
+
+\*[Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Itai Bassi](https://itaibassi.github.io/), **Aurore Gonzalez**, [Marie-Christine Meyer](https://www.leibniz-zas.de/en/people/details/meyer-marie-christine/marie-christine-meyer), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Accepted. [Core Concepts and Indirect Alternatives: On the Anti-Duality of Quantifiers](http://auroregonzalez.github.io/files/JereticEtAl2024.pdf). *Journal of Semantics*
 
 \*[Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), \***Aurore Gonzalez**, \*[Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Desiré Carioti](https://www.unimib.it/desire-carioti), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti). Accepted. *Sì* e *no*: How Italian children and adults answer positive and negative polar questions. *Language Acquisition*
 
