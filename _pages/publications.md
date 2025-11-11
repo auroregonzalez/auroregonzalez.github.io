@@ -8,6 +8,9 @@ author_profile: true
 
 ## In progress
 
+\*[Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), **Aurore Gonzalez**, [Johannes Hein](https://www.johannes-hein.de/index.html), [Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Aijun Huang](https://sfl.sjtu.edu.cn/En/Data/View/4662), Johnson F. Ilori, Gayathri G. Krishnan, [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). Submitted. Children's production of *wh*-questions across five
+language families.
+
 **Aurore Gonzalez**. In revisions. [Residue of Universality](http://auroregonzalez.github.io/files/Gonzalez2024.pdf).
 
 ## Accepted / To appear
