@@ -28,7 +28,7 @@ language families.
 
 \*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](http://imke.driemel.net/), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). 2025. [Is DP conjunction always complex?: The view from child Georgian and Hungarian](https://doi.org/10.3765/sp.18.5). *Semantics & Pragmatics*, 18(5). DOI: [10.3765/sp.18.5](https://doi.org/10.3765/sp.18.5)
 
-\***Aurore Gonzalez** and Jérémy Pasquereau (eds). 2025. *[Proceedings of TripleA 11](https://hal.science/hal-05363613)*.
+**Aurore Gonzalez** and Jérémy Pasquereau (eds). 2025. *[Proceedings of TripleA 11](https://hal.science/hal-05363613)*.
 
 ## 2024
 
