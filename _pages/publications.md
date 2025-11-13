@@ -28,6 +28,8 @@ language families.
 
 \*[Cory Bill](https://www.corybill.com/), \***Aurore Gonzalez**, [Imke Driemel](http://imke.driemel.net/), [Tamar Makharoblidze](https://faculty.iliauni.edu.ge/arts/tamar-makharoblidze/?lang=en), [Lilla Pintér](https://nytud.hu/en/colleague/pinter-lilla/profile). 2025. [Is DP conjunction always complex?: The view from child Georgian and Hungarian](https://doi.org/10.3765/sp.18.5). *Semantics & Pragmatics*, 18(5). DOI: [10.3765/sp.18.5](https://doi.org/10.3765/sp.18.5)
 
+\***Aurore Gonzalez** and Jérémy Pasquereau (eds). 2025. *[Proceedings of TripleA 11](https://hal.science/hal-05363613)*.
+
 ## 2024
 
 \*[Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), **Aurore Gonzalez**, [Itai Bassi](https://itaibassi.github.io/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro), [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland). 2024. [DUAL as a core concept and the pronounceability of alternatives](https://events.illc.uva.nl/AC/AC2024/Proceedings/). In F. Carcassi, T. Johnson, S. B. Knudstorp, S. Domínguez Parrado, P. Rivas Robledo, and G. Sbardolini (eds.), *Proceedings of the 24th Amsterdam Colloquium*, 181-187. DOI: [10.5281/zenodo.14515420](https://doi.org/10.5281/zenodo.14515420)
