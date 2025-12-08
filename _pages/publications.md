@@ -22,7 +22,7 @@ language families.
 
 ## 2025
 
-\*[Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), \***Aurore Gonzalez**, \*[Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Desiré Carioti](https://www.unimib.it/desire-carioti), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti). 2025. *Sì* e *no*: How Italian children and adults answer positive and negative polar questions. *Language Acquisition*. DOI: [10.1080/10489223.2025.2562194](https://doi.org/10.1080/10489223.2025.2562194)
+\*[Chiara Dal Farra](http://www.bilgroup.it/en/chiara-dal-farra-2/), \***Aurore Gonzalez**, \*[Silvia Silleresi](http://www.bilgroup.it/en/silvia-silleresi-2/), [Desiré Carioti](https://www.unimib.it/desire-carioti), [Maria Teresa Guasti](https://www.unimib.it/maria-teresa-guasti). 2025. *Sì* and *no*: How Italian children and adults answer positive and negative polar questions. *Language Acquisition*. DOI: [10.1080/10489223.2025.2562194](https://doi.org/10.1080/10489223.2025.2562194)
 
 
 \***Aurore Gonzalez**, [Anamaria Fălăuş](https://anamariafalaus.org/) and [Gennaro Chierchia](https://scholar.harvard.edu/chierchia/home). 2025. [Aspectual shift in Romance: A preliminary study](https://doi.org/10.18148/sub/2025.v29.1232). In F. Longo and D. Panizza (eds.), *Proceedings of Sinn und Bedeutung 29*, 584-600. DOI: [10.18148/sub/2025.v29.1232](https://doi.org/10.18148/sub/2025.v29.1232)
