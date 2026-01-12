@@ -4,7 +4,11 @@ permalink: /presentations/
 author_profile: true
 ---
 \
-Some recent and upcoming presentations (a full list can be found in my [CV](http://auroregonzalez.github.io/files/CV_november2025.pdf)):
+Some recent and upcoming presentations (a full list can be found in my [CV](http://auroregonzalez.github.io/files/CV_january2026.pdf)):
+
+## 2026
+
+Which conjunctive expressions are hiding something? The view from (younger) children [with [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Ágnes Langó-Tóth](https://nytud.hu/en/colleague/agnes-lango-toth/profile) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *Language Development from Infancy to Adolescence 4*, Eötvös Loránd University, February 19. 
 
 ## 2025
 
