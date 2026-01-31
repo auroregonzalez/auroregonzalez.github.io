@@ -8,6 +8,8 @@ Some recent and upcoming presentations (a full list can be found in my [CV](http
 
 ## 2026
 
+Not all scalar implicatures are derived from utterable alternatives: evidence from child language acquisition [with [Paloma Jeretič](https://web.sas.upenn.edu/paloma-jeretic/), [Itai Bassi](https://itaibassi.github.io/), [Andreea Nicolae](https://sites.google.com/site/andreeanicolae/), [Kazuko Yatsushiro](https://www.leibniz-zas.de/en/people/details/yatsushiro-kazuko/kazuko-yatsushiro) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Poster at *ELM 4*, University of Pennsylvania, June 10-12.
+
 Which conjunctive expressions are hiding something? The view from (younger) children [with [Cory Bill](https://www.corybill.com/), [Imke Driemel](https://sites.google.com/site/imkedriemel/home), [Ágnes Langó-Tóth](https://nytud.hu/en/colleague/agnes-lango-toth/profile) and [Uli Sauerland](https://www.leibniz-zas.de/en/people/details/sauerland-uli/uli-sauerland)]. Talk at *Language Development from Infancy to Adolescence 4*, Eötvös Loránd University, February 19. 
 
 ## 2025
